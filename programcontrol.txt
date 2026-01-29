@@ -1,1 +1,12 @@
 Testing stuff goes here
+
+1. Test standard cipher works
+2. Test alternate cipher works
+3. Test if command line can output correct files
+
+
+
+
+
+
+
